@@ -1,0 +1,38 @@
+# Omegle hacking - Jumping between two strangers.
+----------------------------------------------------------
+
+Software used:
+1> Obs Studio. link:- https://obsprojects.com/download
+2> Obs-virtualcam-2.0.5. link:- https://obsprojects.com/forum/resources/obs-virtualcam.949/
+3> VBCABLE. link:- https://vb-audio.com/Cable/
+----------------------------------------------------------
+
+How To Use:
+
+step-1: Open two Obs studio windows and give name of your Scenes like firefox-1 and firefox-2.
+
+step-2: Goto first obs-window > tools > virtualcam > obs-camera > start.
+
+step-3: same as step-2 but here choose obs-camera2 than start.
+
+step-4: Open two different browsers, i prefer to use two firefox windows > omegle.com.
+
+step-5: In firefox-1 use OBS-CAMERA as a camera, and OBS-CAMERA2 in firefox-2.
+
+step-6: goto obs studio1 > Sources > + > window capture > choose firefox-2. And in another obs studio window choose firefox-1.
+
+step-7: crop the stranges vedio section on both obs studios.
+
+HAVE FUN!!
+
+------------------------------------------------------------
+
+WARNINGS:
+
+1> Must use VPN or private window.
+2> On installation process of virtualcam must use 2 virtual cam.
+3> If your obs-window is not capturing your browser's window properly that goto browser settings and off the HARDWARE ACCELERATION.
+
+
+
+
